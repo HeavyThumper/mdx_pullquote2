@@ -10,7 +10,7 @@ positioning.
 
 Original code Copyright 2016 Daniel L. Miller
 
-License: [BSD](http://www.opensource.org/licenses/bsd-license.php)
+License: see LICENSE.md
 
 """
 
