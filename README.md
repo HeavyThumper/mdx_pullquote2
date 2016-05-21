@@ -20,6 +20,7 @@ positioning can be completely controlled by CSS.
 
 This uses the same syntax as Arun's - basic hyperlink syntax with +
 as the target, e.g.:
+
     This can be whatever you want. And [not even a whole](+) sentence.
 
 This will work for multiple Pull Quotes in the same paragraph - though
